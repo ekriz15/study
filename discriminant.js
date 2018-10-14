@@ -1,5 +1,5 @@
 ' use strict '
-let d,x1,x2;
+let a = 0 , b = 0, c = 0 ,d,x1,x2;
 
 /*Usage
 
@@ -7,9 +7,9 @@ Write your a,b,c arguments and the programm will count the result
 
 */
 
-let a = 0;
-let b = 4;
-let c = -21;
+a = 1;
+b = 1;
+c = 1;
 
 
 if (a !== 0 && b !== 0 && c !== 0 ) {
