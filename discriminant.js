@@ -18,9 +18,9 @@ if (a !== 0 && b !== 0 && c !== 0 ) {
       onlyac(a,c);
     }  else  if (c == undefined || c == 0) {
         onlyab(a,b);
-      } else if (a == undefined || a == 0) {
-        onlya(b,c);
-      };
+      }   else if (a == undefined || a == 0) {
+            onlya(b,c);
+          };
 
 
 
